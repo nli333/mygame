@@ -1,0 +1,14 @@
+# Build output
+/build/
+/out/
+
+# Claude Code
+.claude/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+
+# CMake generated
+CMakeUserPresets.json
